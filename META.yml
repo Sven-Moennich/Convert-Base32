@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Convert-Base32
-version:            0.04
+version:            0.05
 abstract:           Encoding and decoding of base32 strings
 author:  []
 license:            unknown
